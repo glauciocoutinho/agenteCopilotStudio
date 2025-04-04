@@ -24,6 +24,18 @@ Primeiramente acessamos e criamos um novo ambiente no Power Platform admin cente
 
 ![Criando meu primeiro Copiloto no Microsoft Copilot Studio0](https://github.com/user-attachments/assets/beb7f080-857c-40e8-8e87-dda08c052f61)
 
+## Criando um Copilot baseado em modelo
+
+🛠 O que foi feito?
+
+* Acessamos o Microsoft Copilot Studio
+* Exploramos os modelos e agentes disponíveis
 
 
 ![Criando meu primeiro Copiloto no Microsoft Copilot Studio1](https://github.com/user-attachments/assets/8f6c6fea-4d0f-4861-a399-b307efc6ddb4)
+
+## Criando o Agente
+
+* Criamos no nome do Agente
+* Criamos a Descrição do Agente
+* Criamos as Instruções Gerais do Agente
