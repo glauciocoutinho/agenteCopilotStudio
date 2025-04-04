@@ -1,5 +1,7 @@
 # Meu Primeiro Copiloto no Microsoft Copilot Studio
-📌 Sobre o Desafio - Criando seu primeiro Copiloto no Microsoft Copilot Studio - Suzano - Python Developer
+📌 Sobre o Desafio
+
+Criando seu primeiro Copiloto no Microsoft Copilot Studio - Suzano - Python Developer
 Este repositório é a documentação e o resumo da tarefa e lab que eu realizei no bootcamp DIO - Suzano - Python Developer.
 
 🎯 Objetivo
