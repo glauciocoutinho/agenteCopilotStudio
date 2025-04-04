@@ -31,11 +31,54 @@ Primeiramente acessamos e criamos um novo ambiente no Power Platform admin cente
 * Acessamos o Microsoft Copilot Studio
 * Exploramos os modelos e agentes disponíveis
 
+Para esse desafio escolhemos o modelo Safe Travel, conforme lab realizado.
+
 
 ![Criando meu primeiro Copiloto no Microsoft Copilot Studio1](https://github.com/user-attachments/assets/8f6c6fea-4d0f-4861-a399-b307efc6ddb4)
 
 ## Criando o Agente
 
 * Criamos no nome do Agente
+* Substituimos o ícone padrão para um padronizado 
 * Criamos a Descrição do Agente
 * Criamos as Instruções Gerais do Agente
+* Usamos a "Knowledge" da US Travel Website, ou seja, adicionamos esse site para fornecer os dados para nosso agente.
+
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio2](https://github.com/user-attachments/assets/d0247876-e855-473c-9fdf-f536229b253a)
+
+
+## Criando um Copilot baseado em descrição com IA
+
+🛠 O que foi feito?
+
+* Criamos um novo Agente
+* Digitamos e descrevemos para IA do Microsoft Copilot Studio o nosso agente e criamos o nosso agente
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio4](https://github.com/user-attachments/assets/fc5683ed-54a8-4a4c-9387-d4730f1efacc)
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio5](https://github.com/user-attachments/assets/c2125f4a-4e72-4031-b694-6d8aeacb3e7d)
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio7](https://github.com/user-attachments/assets/94536bb0-5a4b-4a5e-9fac-a2379320cd3a)
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio9](https://github.com/user-attachments/assets/446fbcba-f9e2-4d2c-a72c-9dc74314d3f4)
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio10](https://github.com/user-attachments/assets/3791eebf-c565-4539-a345-1b886c84c765)
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio11](https://github.com/user-attachments/assets/54c7f058-cff8-4bc1-a39b-7e58267046f2)
+
+
+🛠 Fizemos um pequeno teste com o nosso agente
+
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio12](https://github.com/user-attachments/assets/aa530d31-08ea-4e12-afca-e587ecaeeb1c)
+
+
+
+
+
+
+
+
+
+
+
