@@ -20,5 +20,10 @@ Criar o meu primeiro Copiloto no Microsoft Copilot Studio.
 
 🛠 O que foi feito?
 
+Primeiramente acessamos e criamos um novo ambiente no Power Platform admin center
+
+![Criando meu primeiro Copiloto no Microsoft Copilot Studio0](https://github.com/user-attachments/assets/beb7f080-857c-40e8-8e87-dda08c052f61)
+
+
 
 ![Criando meu primeiro Copiloto no Microsoft Copilot Studio1](https://github.com/user-attachments/assets/8f6c6fea-4d0f-4861-a399-b307efc6ddb4)
