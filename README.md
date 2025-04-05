@@ -1,4 +1,4 @@
-# Meu Primeiro Copiloto no Microsoft Copilot Studio
+![Criando seu primeiro Copiloto no Microsoft Copilot Studio16b](https://github.com/user-attachments/assets/832cd730-4f8c-4d1c-8a33-63ad02b35dd6)# Meu Primeiro Copiloto no Microsoft Copilot Studio
 📌 Sobre o Desafio
 
 Criando seu primeiro Copiloto no Microsoft Copilot Studio - Suzano - Python Developer
@@ -71,6 +71,47 @@ Para esse desafio escolhemos o modelo Safe Travel, conforme lab realizado.
 🛠 Fizemos um pequeno teste com o nosso agente
 
 ![Criando seu primeiro Copiloto no Microsoft Copilot Studio12](https://github.com/user-attachments/assets/aa530d31-08ea-4e12-afca-e587ecaeeb1c)
+
+
+## Criando um Copilot em branco
+
+🛠 O que foi feito?
+
+* Acessamos nossso ambiente e criamos um novo agente
+* Criamos um nome
+* Trocamos o ícone padrão por um personalizado 
+* Criamos um descrição
+* Editamos a linguagem, mudando de: English (en-US) para Portuguese (Brazil)(pr-BR)
+* Realizamos um teste simples em português-brasil para o nosso agente depois de criado - SUCESSO! Nosso resultado e o desafio foi completado.
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio13](https://github.com/user-attachments/assets/5cfd1efa-1181-45fc-943d-17af14a98cbd)
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio14](https://github.com/user-attachments/assets/722ae928-e9dc-4ad4-a724-1c462875a95c)
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio15](https://github.com/user-attachments/assets/0d2e51eb-1345-42ed-90f6-0e1115d71392)
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio16](https://github.com/user-attachments/assets/f0e73eb0-3023-4c6f-a461-35121d163579)
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio16b](https://github.com/user-attachments/assets/89943524-991b-4fb4-bee0-e10f80fe6524)
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio17](https://github.com/user-attachments/assets/bdef9f71-4f15-4731-a054-2986c7ddf03f)
+
+
+ ## Desafio Bootcamp DIO - Suzano - Criando seu primeiro Copiloto no Microsoft Copilot Studio
+
+ Os 3 agentes solicitados foram criados, editados e também exploramos o Microsoft Copilot Studio. Desafio realizado com sucesso!
+
+ ![Criando seu primeiro Copiloto no Microsoft Copilot Studio18](https://github.com/user-attachments/assets/073faadf-842b-43c0-b590-e0feb3b4dcfc)
+
+
+ 
+
+
+
+
+
+
+
 
 
 
